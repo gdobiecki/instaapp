@@ -1,0 +1,8 @@
+{
+  "name": "Insta APP",
+  "dependencies": {
+    "requirejs": "2.1.14",
+    "jquery": "2.1.4",
+    "urijs": "1.16.1"
+  }
+}
